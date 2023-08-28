@@ -1,1 +1,4 @@
+The link to our dataset is: 
+https://www.dropbox.com/scl/fo/h7q1msrlq6jdkyxxwki1s/h?rlkey=tah48zbayovbhgmtmlptjj0qk&dl=0 
 
+Cars in our dataset originate from ShaoeNet. We repaired the surfaces of the original files in ShapeNet and only included those with high qualities for CFD simulations. The name of each file relates the car in our dataset to the original .obj file in ShapeNet. File names with "_aug" correspond to cars obtained by changing the widths of the original cars. File names with "_flip" stand for cars obtained by flipping the corresponding cars.
